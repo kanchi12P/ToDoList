@@ -1,0 +1,123 @@
+.a12{
+ 
+  padding: 5%;
+}
+
+.profile{
+  background-color: cadetblue;
+}
+html {
+  background-color: #4a4f63;
+ 
+  min-height: 1000px;
+  font-family: 'helvetica neue';
+}
+
+h1 {
+  color:#4a4f63;
+  padding: 10px;
+}
+h6{
+  color:#4a4f63,
+ 
+}
+.box {
+  max-width: 100%;
+  margin: 50px auto;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+.list {
+  align-content: center;
+  text-align: center;
+  max-width: 100%;
+  margin: 50px auto;
+  background: rgb(114, 182, 199);
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+  /* font-family: Georgia, 'Times New Roman', Times, serif; */
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#heading {
+  background-color: #1f72861f;
+  text-align: center;
+}
+
+.item {
+  align-content: center;
+  text-align: center;
+  min-height: 70px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #1677a3;
+}
+form{
+  margin-right: 0%;
+}
+.item:last-child {
+  border-bottom: 0;
+}
+
+input:checked+p {
+  text-decoration: line-through;
+  text-decoration-color: #83bde3;
+}
+
+input[type="checkbox"] {
+  margin: 20px;
+}
+
+p {
+  margin: 0;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 200;
+  color: #00204a;
+}
+
+input[type="text"] {
+  text-align: center;
+  height: 60px;
+  top: 10px;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  font-weight: 200;
+  width: 100%;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  box-shadow: inset 0 -3px 0 0 #73a4dd;
+}
+
+::placeholder {
+  color: grey;
+  opacity: 1;
+}
+
+footer {
+  color: white;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.but{
+  align-self: center;
+  align-items: center;
+  margin-left: 45%;
+  padding-bottom: 10%;
+}
+.plus{
+  margin-right:5% ;
+}
+.plusbtn{
+  width: 50px;
+  height: 50px;
+  padding: 7px 10px;
+  border-radius: 25px;
+  font-size: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
