@@ -2,20 +2,24 @@
 
 ## How To run on your Local system?
 
-1. Install node.js server from https://nodejs.org/en/download/ if you don,t have it on your system.
+1. Install node.js server from <code>https://nodejs.org/en/download/</code> if you don,t have it on your system.
 
 2. Clone this git repository, if you haven't done already.
    `git clone https://github.com/kanchi12P/ToDoList`
 
-3. Install local npm dependencies.
-   `npm install`
-4. Make sure you have monogoDb account to store the database. 
+3. To install local npm dependencies run `npm install`.
+
+4. Create database locally on mongoDB on your system or can host database on MongoDB Atlas. (database name - 'todo').
+
+5. Start the server using `node .\app.js`.
+
+6. Navigate to your browser <code> http://localhost:3000/ </code> to view the app.
  
 ## How can I try it?
 The deployed application is here-https://cryptic-ravine-98778.herokuapp.com/
 
+## Technologies Used
 
-The ToDo app uses the following technologies :
 * MongoDB
 * Express.js
 * Node.js
