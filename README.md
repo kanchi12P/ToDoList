@@ -37,7 +37,7 @@ The application have a user friendly interface with the following features -
 
 ![Screenshot (2070)](https://user-images.githubusercontent.com/78892305/154084675-ec1a4229-d70d-40fd-a458-8a2b66583abf.png)
 
-2. It shows error page when user enter wrong password or username or existing user try to register again.
+2. It shows error page when user enter wrong password, username or existing user try to register again.
 
 ![Screenshot (2072)](https://user-images.githubusercontent.com/78892305/154084678-760eef32-647a-44e6-a7b6-0900b4358c2a.png)
 
