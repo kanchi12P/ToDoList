@@ -31,13 +31,13 @@ The deployed application is here-https://cryptic-ravine-98778.herokuapp.com/
 ## Features
 The application have a user friendly interface with the following features -
 
-1. The application has user authentication system. Use can register with the email address.
+1. It has user authentication system. Use can register using email address and password and then login using the same.
 
 ![Screenshot (2069)](https://user-images.githubusercontent.com/78892305/154084670-f9ac4cbd-dd80-4fa6-addc-612e3ea311ef.png)
 
 ![Screenshot (2070)](https://user-images.githubusercontent.com/78892305/154084675-ec1a4229-d70d-40fd-a458-8a2b66583abf.png)
 
-2. It shows error page when user enter wrong password, username or existing user try to register again.
+2. It shows an error page when user enter wrong password, username or existing user try to register again.
 
 ![Screenshot (2072)](https://user-images.githubusercontent.com/78892305/154084678-760eef32-647a-44e6-a7b6-0900b4358c2a.png)
 
@@ -46,3 +46,5 @@ The application have a user friendly interface with the following features -
 3. User can add new items and delete the existing ones.
 
 ![Screenshot (2075)](https://user-images.githubusercontent.com/78892305/154084669-6ef8fb5b-5a75-44b9-9eb6-1f35147387f5.png)
+
+4.Separate To Do List for each user is maintatined.
