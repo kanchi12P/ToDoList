@@ -17,10 +17,10 @@ A backend encorporated web application to save all your tasks.
 
 5. Start the server using `node .\app.js`.
 
-6. Navigate to your browser <code> http://localhost:8000/ </code> to view the app.
+6. Navigate your browser to <code> http://localhost:8000/ </code> to view the app.
  
 ## How can I try it?
-The deployed application is here-https://cryptic-ravine-98778.herokuapp.com/
+The deployed application is here-<code> https://cryptic-ravine-98778.herokuapp.com/ </code>
 
 ## Technologies Used
 
