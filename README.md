@@ -1,5 +1,9 @@
 # ToDoList
 
+A backend encorporated web application to save all your tasks.
+
+* Created by - Kanchi Pardhi (Roll no. - 200001032)
+
 ## How To run on your Local system?
 
 1. Install node.js server from <code>https://nodejs.org/en/download/</code> if you don,t have it on your system.
@@ -20,12 +24,12 @@ The deployed application is here-https://cryptic-ravine-98778.herokuapp.com/
 
 ## Technologies Used
 
+* HTML
+* CSS
 * MongoDB
-* Express.js
+* Mongoose
 * Node.js
-* mongoose
-
-
+* Express.js
 
 
 ## Features
