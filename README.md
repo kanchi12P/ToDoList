@@ -47,4 +47,4 @@ The application have a user friendly interface with the following features -
 
 ![Screenshot (2075)](https://user-images.githubusercontent.com/78892305/154084669-6ef8fb5b-5a75-44b9-9eb6-1f35147387f5.png)
 
-4.Separate To Do List for each user is maintatined.
+4. Separate To Do List for each user is maintatined.
